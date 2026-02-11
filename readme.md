@@ -20,6 +20,8 @@ These are the installations needed to run all notebook files.
 - `price_parser`
 - `CurrencyConverter`
 
+The `euroxref-hist.csv` is used for looking up historical data for film budgets in different currencies.
+
 ## Virtual Environment
 We utilized virtual environments for the project. Creating the environments varies by operating system, as well as activating them, but these are the general commands used to recreate the environment and kernel for our notebooks. They would have to slightly modified depending on the OS.
 
@@ -29,8 +31,6 @@ We utilized virtual environments for the project. Creating the environments vari
 `!source activate films_env/bin/activate`
 
 `!pip install pandas plotly nbformat price_parser CurrencyConverter`
-
-### Activate virtual environment and install everything
 
 ## Codebook Narrative Order
 
