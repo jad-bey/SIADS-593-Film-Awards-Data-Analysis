@@ -39,9 +39,9 @@ This project is split into mulitple notebooks, therefore the order in which the 
     - Loading in and cleaning the data
 2. joining.ipynb
     - Joining the IMDb and Oscar dataset together
-3. graphing.ipynb
+3. budget graph.ipynb
     - Visualizations for film budgets and profits
 4. language graph.ipynb
     - Visualizations for film languages
-5. imdb graphing.ipynb
+5. imdb rating graph.ipynb
     - Visualizations for user and critic scores
