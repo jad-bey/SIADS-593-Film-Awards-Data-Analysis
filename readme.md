@@ -45,3 +45,10 @@ This project is split into mulitple notebooks, therefore the order in which the 
     - Visualizations for film languages
 5. imdb rating graph.ipynb
     - Visualizations for user and critic scores
+  
+## Final Output
+![Scatter plot of box office vs budget by status and status](html\ output/Static\ Graphs/Box\ Office\ and\ Budget.png "Box Office and Budget")
+![Bar graph of aggregate films across rating buckets](html\ output/Static\ Graphs/Ratings\ and\ Status.png "Ratings and Status")
+![Bar graph of aggregate film ratings per language and status](html\ output/Static\ Graphs/Language\ and\ Ratings.png "Language and Ratings")
+![Bar graph of film totals per language and status](html\ output/Static\ Graphs/Language\ and\ Totals.png "Language and Votes")
+![Bar graph of aggregate votes per language and status](html\ output/Static\ Graphs/Language\ and\ Votes.png "Language and Status")
