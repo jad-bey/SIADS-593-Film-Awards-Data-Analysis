@@ -47,8 +47,8 @@ This project is split into mulitple notebooks, therefore the order in which the 
     - Visualizations for user and critic scores
   
 ## Final Output
-![Scatter plot of box office vs budget by status and status](output/Budget%20Box%20Office%20Scatter%20PLot.png "Box Office and Budget")
+![Scatter plot of box office vs budget by status and status](output/Budget%20Box%20Office%20Scatter%20Plot%20Zoomed.png "Box Office and Budget")
 
-![Bar graph of aggregate films across rating buckets](output/Ratings%20and%20Status.png "Ratings and Status")
+![Bar graph of aggregate films across rating buckets](output/Ratings%20Box%20Plot.png "Ratings and Status")
 
-![Bar graphs of average rating, total films, and total votes by language](output/Language%20Bar%20Graphs%20Narrow.png "Language and Ratings Counts and Votes")
+![Bar graphs of average rating, total films, and total votes by language](output/Language%20Bar%20Graphs%20with%20Votes.png "Language and Ratings Counts and Votes")
